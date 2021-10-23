@@ -1,1 +1,1 @@
-# CCXTPythonTutorial
+# CCXT Python Tutorial
